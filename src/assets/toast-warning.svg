@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_2198" data-name="Group 2198" transform="translate(-933 -2161)">
+    <g id="circle" transform="translate(932 2160)">
+      <path id="Path_2065" data-name="Path 2065" d="M19,1A18,18,0,1,0,37,19,18,18,0,0,0,19,1ZM4.273,19A14.727,14.727,0,1,1,19,33.727,14.727,14.727,0,0,1,4.273,19Z" fill="#f3965c" fill-rule="evenodd"/>
+    </g>
+    <g id="exclamation" transform="translate(908.682 2167.549)">
+      <path id="Path_2070" data-name="Path 2070" d="M42.39,78.5a1.89,1.89,0,1,1-1.89,1.89A1.9,1.9,0,0,1,42.39,78.5Z" transform="translate(0 -60.878)" fill="#f3965c"/>
+      <path id="Path_2071" data-name="Path 2071" d="M42.39,2.5A1.9,1.9,0,0,0,40.5,4.39l.657,10.187a1.236,1.236,0,0,0,2.467,0L44.28,4.39A1.9,1.9,0,0,0,42.39,2.5Z" fill="#f3965c"/>
+    </g>
+  </g>
+</svg>

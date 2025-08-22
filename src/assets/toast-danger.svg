@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_2197" data-name="Group 2197" transform="translate(-501 -2161)">
+    <g id="circle" transform="translate(500 2160)">
+      <path id="Path_2065" data-name="Path 2065" d="M19,1A18,18,0,1,0,37,19,18,18,0,0,0,19,1ZM4.273,19A14.727,14.727,0,1,1,19,33.727,14.727,14.727,0,0,1,4.273,19Z" fill="#ef2653" fill-rule="evenodd"/>
+    </g>
+    <g id="cancel" transform="translate(511.399 2171.4)">
+      <g id="Group_1090" data-name="Group 1090">
+        <path id="Path_1218" data-name="Path 1218" d="M9.275,7.616l5.683-5.684a.833.833,0,0,0,0-1.176l-.5-.5a.833.833,0,0,0-1.176,0L7.6,5.942,1.917.259a.833.833,0,0,0-1.176,0l-.5.5a.832.832,0,0,0,0,1.176L5.927,7.616.243,13.3a.834.834,0,0,0,0,1.176l.5.5a.833.833,0,0,0,1.176,0L7.6,9.29l5.683,5.683a.825.825,0,0,0,.588.243h0a.825.825,0,0,0,.588-.243l.5-.5a.834.834,0,0,0,0-1.176Z" transform="translate(0 -0.016)" fill="#ef2653" stroke="#ef2653" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

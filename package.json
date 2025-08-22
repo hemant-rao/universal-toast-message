@@ -1,0 +1,24 @@
+{
+    "name": "universal-toast-vue",
+    "version": "1.0.0",
+    "description": "A lightweight toast notification plugin for Vue 3",
+    "main": "index.js",
+    "module": "index.js",
+    "files": [
+        "index.js",
+        "src",
+        "assets"
+    ],
+    "keywords": [
+        "vue",
+        "vue3",
+        "toast",
+        "notification",
+        "vue-plugin"
+    ],
+    "author": "Hemant Rao",
+    "license": "MIT",
+    "peerDependencies": {
+        "vue": "^3.0.0"
+    }
+}
