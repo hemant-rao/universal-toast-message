@@ -20,7 +20,7 @@ yarn add universal-toast-message
 
 Try it out instantly on CodeSandbox:
 
-👉 [Open Live Demo](https://codesandbox.io/p/live/f0cd11e7-359d-43ad-83bd-decbcd74cd81)
+👉 [Open Live Demo](https://codesandbox.io/p/devbox/universal-toast-message-mzfdxp)
 
 ## 🎥 Demo Preview
 
