@@ -1,6 +1,6 @@
 {
     "name": "universal-toast-message",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A lightweight toast notification plugin for Vue 3",
     "main": "index.js",
     "module": "index.js",

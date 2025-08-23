@@ -22,6 +22,10 @@ Try it out instantly on CodeSandbox:
 
 👉 [Open Live Demo](https://codesandbox.io/p/live/f0cd11e7-359d-43ad-83bd-decbcd74cd81)
 
+## 🎥 Demo Preview
+
+![Toast Demo](https://raw.githubusercontent.com/hemant-rao/universal-toast-message/refs/heads/main/src/assets/universal-toast-message.gif)
+
 
 ## 🔧 Usage
 
